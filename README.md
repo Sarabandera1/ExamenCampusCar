@@ -1,2 +1,3 @@
 # ExamenCampusCar
 Diseñar una base de datos para un concesionario de vehículos que gestione la información sobre los vehículos en stock, clientes, ventas, y servicios de mantenimiento. La base de datos debe permitir registrar y gestionar vehículos, vendedores, clientes, transacciones de ventas y servicios realizados. Los estudiantes deben crear un diagrama UML E-R que represente la estructura de la base de datos y entregar una documentación detallada que explique las decisiones de diseño, las relaciones entre las tablas y las restricciones impuestas.
+![image](https://github.com/user-attachments/assets/65897435-c5f5-48d4-9faf-aa01fe765120)
